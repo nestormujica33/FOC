@@ -14,4 +14,4 @@ for i in range(3):
 n=3
 while n > 0:
     print(n)
-    n -= 1
+    n -= 4
